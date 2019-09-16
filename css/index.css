@@ -138,9 +138,138 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    background-color: black;
+    width: 790px;
 }
 
 footer nav a {
-    color: white;
+    color: red;
     text-decoration: none;
 }
+
+
+nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    padding: 40px;
+}
+
+.jumbo-img{
+    margin-left: 150px;
+}
+
+
+.text-container{
+    float: left;
+}
+
+.top-content{
+    margin: 30px 0;
+    border-bottom: none;
+}
+
+.middle-content .boxes .box {
+    background-color: red;
+}
+
+.middle-content .boxes .teal{
+    background-color: teal; 
+}
+.middle-content .boxes .gold{
+    background-color: gold;
+}
+.middle-content .boxes cadetblue{
+    background-color: cadetblue;
+}
+.middle-content .boxes .coral{
+    background-color: coral;
+}
+.middle-content .boxes .crimson{
+    background-color: crimson;
+}
+.middle-content .boxes .forestgreen{
+    background-color: forestgreen;
+}
+.middle-content .boxes .darkorchid{
+    background-color: darkorchid;
+}
+.middle-content .boxes .hotpink{
+    background-color: hotpink;
+}
+.middle-content .boxes .indigo{
+    background-color: indigo;
+}
+.middle-content .boxes .dodgerblue{
+    background-color: dodgerblue;
+}
+
+.text-container{
+
+}
+
+.bottom-content .fl-1{
+   width: 33%;
+   float: left;
+}
+
+.bottom-content .fl-2{
+    width: 33%;
+    float: left;
+}
+
+.bottom-content .fl-3{
+    width: 33%;
+    float: left;
+}
+
+footer{
+    margin-top: 20px;
+}
+footer nav a{
+    height: 100px;
+    color: white;
+    padding: 10px
+}
+
+.flt-1{
+    width: 50%;
+    float: left;
+ }
+
+ .flt-2{
+    width: 50%;
+    float: left;
+ }
+
+ .section-1{
+     margin-top: 30px;
+     border-top: dotted;
+     padding-top: 25px;
+ }
+
+ .container .section-2{
+    margin-top: 70px;
+    border-top: solid;
+    padding-top: 25px;
+}
+ 
+.flt-3{
+    width: 50%;
+    float: left;
+ }
+
+ .flt-4{
+    width: 50%;
+    float: left;
+ }
+
+
