@@ -138,10 +138,12 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    background-color: black;
+    width: 790px;
 }
 
 footer nav a {
-    color: white;
+    color: red;
     text-decoration: none;
 }
 
@@ -162,7 +164,7 @@ li {
 }
 
 .jumbo-img{
-    margin-left: 290px;
+    margin-left: 150px;
 }
 
 
@@ -230,7 +232,44 @@ li {
 }
 
 footer{
-    height: 100px;
-    background-color: white;
+    margin-top: 20px;
 }
+footer nav a{
+    height: 100px;
+    color: white;
+    padding: 10px
+}
+
+.flt-1{
+    width: 50%;
+    float: left;
+ }
+
+ .flt-2{
+    width: 50%;
+    float: left;
+ }
+
+ .section-1{
+     margin-top: 30px;
+     border-top: dotted;
+     padding-top: 25px;
+ }
+
+ .container .section-2{
+    margin-top: 70px;
+    border-top: solid;
+    padding-top: 25px;
+}
+ 
+.flt-3{
+    width: 50%;
+    float: left;
+ }
+
+ .flt-4{
+    width: 50%;
+    float: left;
+ }
+
 
