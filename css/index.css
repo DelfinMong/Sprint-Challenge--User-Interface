@@ -144,3 +144,93 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    padding: 40px;
+}
+
+.jumbo-img{
+    margin-left: 290px;
+}
+
+
+.text-container{
+    float: left;
+}
+
+.top-content{
+    margin: 30px 0;
+    border-bottom: none;
+}
+
+.middle-content .boxes .box {
+    background-color: red;
+}
+
+.middle-content .boxes .teal{
+    background-color: teal; 
+}
+.middle-content .boxes .gold{
+    background-color: gold;
+}
+.middle-content .boxes cadetblue{
+    background-color: cadetblue;
+}
+.middle-content .boxes .coral{
+    background-color: coral;
+}
+.middle-content .boxes .crimson{
+    background-color: crimson;
+}
+.middle-content .boxes .forestgreen{
+    background-color: forestgreen;
+}
+.middle-content .boxes .darkorchid{
+    background-color: darkorchid;
+}
+.middle-content .boxes .hotpink{
+    background-color: hotpink;
+}
+.middle-content .boxes .indigo{
+    background-color: indigo;
+}
+.middle-content .boxes .dodgerblue{
+    background-color: dodgerblue;
+}
+
+.text-container{
+
+}
+
+.bottom-content .fl-1{
+   width: 33%;
+   float: left;
+}
+
+.bottom-content .fl-2{
+    width: 33%;
+    float: left;
+}
+
+.bottom-content .fl-3{
+    width: 33%;
+    float: left;
+}
+
+footer{
+    height: 100px;
+    background-color: white;
+}
+
